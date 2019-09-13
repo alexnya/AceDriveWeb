@@ -1,0 +1,14 @@
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\bin\Debug\netcoreapp2.2\AceDriveWeb.Client.deps.json
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\bin\Debug\netcoreapp2.2\AceDriveWeb.Client.runtimeconfig.json
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\bin\Debug\netcoreapp2.2\AceDriveWeb.Client.runtimeconfig.dev.json
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\bin\Debug\netcoreapp2.2\AceDriveWeb.Client.dll
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\bin\Debug\netcoreapp2.2\AceDriveWeb.Client.pdb
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\obj\Debug\netcoreapp2.2\AceDriveWeb.Client.csprojAssemblyReference.cache
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\obj\Debug\netcoreapp2.2\AceDriveWeb.Client.csproj.CoreCompileInputs.cache
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\obj\Debug\netcoreapp2.2\AceDriveWeb.Client.RazorAssemblyInfo.cache
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\obj\Debug\netcoreapp2.2\AceDriveWeb.Client.RazorAssemblyInfo.cs
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\obj\Debug\netcoreapp2.2\AceDriveWeb.Client.AssemblyInfoInputs.cache
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\obj\Debug\netcoreapp2.2\AceDriveWeb.Client.AssemblyInfo.cs
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\obj\Debug\netcoreapp2.2\AceDriveWeb.Client.RazorTargetAssemblyInfo.cache
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\obj\Debug\netcoreapp2.2\AceDriveWeb.Client.dll
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Client\obj\Debug\netcoreapp2.2\AceDriveWeb.Client.pdb

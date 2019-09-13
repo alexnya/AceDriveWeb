@@ -1,0 +1,17 @@
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\AceDriveWeb.Tests.deps.json
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\AceDriveWeb.Tests.runtimeconfig.json
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\AceDriveWeb.Tests.runtimeconfig.dev.json
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\AceDriveWeb.Tests.dll
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\AceDriveWeb.Tests.pdb
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\obj\Debug\netcoreapp2.2\AceDriveWeb.Tests.csprojAssemblyReference.cache
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\obj\Debug\netcoreapp2.2\AceDriveWeb.Tests.csproj.CoreCompileInputs.cache
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\obj\Debug\netcoreapp2.2\AceDriveWeb.Tests.AssemblyInfoInputs.cache
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\obj\Debug\netcoreapp2.2\AceDriveWeb.Tests.AssemblyInfo.cs
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\obj\Debug\netcoreapp2.2\AceDriveWeb.Tests.dll
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\obj\Debug\netcoreapp2.2\AceDriveWeb.Tests.pdb
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\AceDriveWeb.Client.dll
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\bin\Debug\netcoreapp2.2\AceDriveWeb.Client.pdb
+C:\Off-Work Programs\AceDriveWeb\AceDriveWeb.Tests\obj\Debug\netcoreapp2.2\AceDriveWeb.Tests.csproj.CopyComplete
