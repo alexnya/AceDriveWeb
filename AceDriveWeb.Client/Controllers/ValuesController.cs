@@ -21,7 +21,7 @@ namespace AceDriveWeb.Client.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "Alex Nyamweya";
+            return "Paul Monroe";
         }
 
         // POST api/values

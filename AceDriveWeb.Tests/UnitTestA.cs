@@ -7,7 +7,7 @@ namespace AceDriveWeb.Tests {
     [Fact]
     public void Get_Returns_My_Name() {
       var returnValue = controller.Get(1);
-      Assert.Equal("Alex Nyamweya", returnValue.Value);
+      Assert.Equal("Paul Monroe", returnValue.Value);
     }  
   }    
 }
